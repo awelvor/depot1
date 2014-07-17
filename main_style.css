@@ -1,0 +1,23 @@
+/* main_style.css */
+@CHARSET "UTF-8";
+header {background: lightray;}
+nav a {
+	text-decoration: none;
+	color: black;
+}
+
+nav a:hover {
+	color: magenta;
+}
+
+footer a {
+	text-decoration: none;
+	color: gainsboro;
+}
+
+footer a:hover {
+	color: white;
+}
+article {font-family: "Trebuchet MS", Helvetica, sans-serif; font-size: 0.9em;}
+article p {text-align: justify;}
+/* end of file */
